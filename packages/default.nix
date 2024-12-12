@@ -22,6 +22,7 @@
           MODULE_COMPRESS = yes;
           MODULE_COMPRESS_ALL = yes;
           MODULE_COMPRESS_XZ = yes;
+          CIFS = yes;
         };
 
         # See:
