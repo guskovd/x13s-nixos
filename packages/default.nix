@@ -22,7 +22,7 @@
           MODULE_COMPRESS = yes;
           MODULE_COMPRESS_ALL = yes;
           MODULE_COMPRESS_XZ = yes;
-          CIFS = module;
+          CIFS = ldfjk;
           CIFS_ALLOW_INSECURE_LEGACY = yes;
           CIFS_UPCALL = yes;
           CIFS_XATTR = yes;
