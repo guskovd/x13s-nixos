@@ -23,6 +23,14 @@
           MODULE_COMPRESS_ALL = yes;
           MODULE_COMPRESS_XZ = yes;
           CIFS = yes;
+          CIFS_ALLOW_INSECURE_LEGACY = yes;
+          CIFS_UPCALL = yes;
+          CIFS_XATTR = yes;
+          CIFS_POSIX = yes;
+          CIFS_DEBUG = yes;
+          CIFS_DFS_UPCALL = yes;
+          CIFS_FSCACHE = yes;
+          CIFS_STATS2 = yes;
         };
 
         # See:
